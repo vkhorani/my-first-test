@@ -5,18 +5,9 @@ Ok, finally the file was pushed.
 
 the senond commit in master branch.
 
+create branch1
 
-
-
-
-
-
-
-
-
-
-
-
+second commit on branch1
 
 
 
@@ -29,3 +20,9 @@ the senond commit in master branch.
 
 master commit1 after branch1 branch12 branch1 commits
 master commit2 after branch1 branch12 branch1 commits
+branch1 commit after branch12
+
+branch12 created
+
+branch12 second commit
+one more change on branch1
