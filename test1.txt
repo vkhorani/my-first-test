@@ -10,3 +10,5 @@ create branch1
 second commit on branch1
 
 branch12 created
+
+branch12 second commit
