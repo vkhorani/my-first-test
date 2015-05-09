@@ -13,9 +13,9 @@ second commit on branch1
 
 
 
-
-
-
-
-
 branch1 commit after branch12
+
+branch12 created
+
+branch12 second commit
+
