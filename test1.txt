@@ -28,3 +28,4 @@ the senond commit in master branch.
 
 
 master commit1 after branch1 branch12 branch1 commits
+master commit2 after branch1 branch12 branch1 commits
